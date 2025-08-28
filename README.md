@@ -18,7 +18,7 @@
 - Python 🐍
 - Git & GitHub 🔧
 - HTML & CSS (em breve!)
-- VS Code como editor favorito
+
 
 ## 📈 Objetivos
 
